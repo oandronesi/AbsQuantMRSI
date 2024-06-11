@@ -259,7 +259,8 @@ for num = 1:l
             T1s = 1270; 
         otherwise 
             
-            %for T2  se the paper of Anke Henning, MRM 2018, 80:452
+            %for T2 use the paper of Anke Henning, MRM 2018, 80:452
+	    %for T2 use the paper of Małgorzata Marjańska, MRM 2018, 79:1260
             %for T1 use the paper of Moser, NMR Biomed 2001, 14:325
            
             T2s = 124; 
